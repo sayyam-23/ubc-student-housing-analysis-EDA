@@ -1,0 +1,7 @@
+zone_name,rms_zone,vacancy_rate_pct,vacancy_reliability,avg_rent,avg_rent_reliability,median_rent,rental_universe,reference_period,source_id
+Vancouver CMA,,3.7,a,1970,a,1875,129351,2025 October,CMHC-HMIP-ZONE-2025
+Kitsilano/Point Grey,5,1.7,b,2051,a,1931,7632,2025 October,CMHC-HMIP-ZONE-2025
+University Endowment Lands,11,1.3,a,2805,a,2760,2082,2025 October,CMHC-HMIP-ZONE-2025
+Westside/Kerrisdale,6,2.4,b,2385,b,2300,3559,2025 October,CMHC-HMIP-ZONE-2025
+South Granville/Oak,4,1.8,b,1929,a,1839,9174,2025 October,CMHC-HMIP-ZONE-2025
+Downtown,3,4.3,b,2198,a,2140,12303,2025 October,CMHC-HMIP-ZONE-2025
